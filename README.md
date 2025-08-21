@@ -1,12 +1,10 @@
-![Amazon.jpg](https://github.com/aaksh33/amazon-clone/raw/main/Amazone%20Clone.png)
-
 # 🛒 Amazon Clone
 
 This is a basic **Amazon Clone** website created using **HTML** and **CSS**. The purpose of this project is to practice frontend development skills and replicate the UI of the Amazon homepage.
 
 ## 📸 Preview
 
-![Amazon Clone Screenshot](Amazone%20Clone.png)
+![Amazon.jpg](https://github.com/aaksh33/amazon-clone/raw/main/Amazone%20Clone.png)
 
 ---
 
@@ -57,3 +55,4 @@ Copy code
 ---
 
 Let me know if you want to include your GitHub link, credits, or deploy it online (like on GitHub Pages or Netlif
+
