@@ -4,7 +4,7 @@ This is a basic **Amazon Clone** website created using **HTML** and **CSS**. The
 
 ## 📸 Preview
 
-![Amazon.jpg](https://raw.githubusercontent.com/aaksh33/amazon-clone/main/AmazonClone.png)
+![Amazon.jpg](https://raw.githubusercontent.com/aaksh33/amazon-clone/main/)
 
 ---
 
@@ -55,6 +55,7 @@ Copy code
 ---
 
 Let me know if you want to include your GitHub link, credits, or deploy it online (like on GitHub Pages or Netlif
+
 
 
 
